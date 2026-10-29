@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn>=0.12
+scipy
+statsmodels
+scikit-learn
+adjustText
+jupyter
