@@ -10,7 +10,7 @@
 
 This repository contains the full lab project for the course. A single Jupyter notebook answers all nine lab assessments, from data merging and cleaning through univariate, bivariate and multivariate analysis to time-series modelling, clustering and principal component analysis. The notebook was executed top to bottom in one run (cells 1–157 in order, no errors). Every output and figure shown is from that run.
 
-> **Project demonstration video (6:58):** [`video/23BDS0173_Sai_Siddhanth_EDA_Project_Demo.mp4`](https://github.com/saisiddhanthks/EDA-Lab-Assessments-23BDS0173/blob/main/video/23BDS0173_Sai_Siddhanth_EDA_Project_Demo.mp4) · [direct download](https://github.com/saisiddhanthks/EDA-Lab-Assessments-23BDS0173/blob/main/video/23BDS0173_Sai_Siddhanth_EDA_Project_Demo.mp4?raw=true)
+> **Project demonstration video (6:58):** [watch in the browser](https://saisiddhanthks.github.io/EDA-Lab-Assessments-23BDS0173/demo.html) · [download the MP4](https://github.com/saisiddhanthks/EDA-Lab-Assessments-23BDS0173/raw/main/video/23BDS0173_Sai_Siddhanth_EDA_Project_Demo.mp4)
 
 ---
 
